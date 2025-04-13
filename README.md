@@ -1,14 +1,14 @@
 # Sisteama-Gerenciamento-Tarefas
 
-##Objetivo
-Criar um sistema de gerenciamento de tarefas com base em metodologias ageis onde seja possivel acompanhar o fluxo de trabalho em tempo real.
+OBJETIVO
+- Criar um sistema de gerenciamento de tarefas com base em metodologias ageis onde seja possivel acompanhar o fluxo de trabalho em tempo real.
 
-##Escopo
+ESCOPO
 - Sistema de gerenciamento de tarefas 
 - Baseado em metodologias ageis
 - Acompanhar fluxo de trabalho em tempo real
 
-##Metodologia adotada 
+METODOLOGIA ADOTADA 
 - **Metodologia**: Kanban via GitHub Projects
 - **Planejamento**: Aba "Projects" com colunas A Fazer, Em Progresso, Concluído.
 - **Desenvolvimento**: Issues #1 a #11 para criação, fechadas ao implementar.
@@ -16,7 +16,7 @@ Criar um sistema de gerenciamento de tarefas com base em metodologias ageis onde
 - **Histórico**: Commits estruturados com Convetiona Commits.
 - **Mudanças**: Registradas neste README e no Kanban.
 
-##Instruções para execução do sistema
+INSTRUÇÃO DE USO DO SISTEMA
 - 1- Executar o programa 
 - 2 - Escrever a tarefa no local indicado 
 - 3 - Clicar em adicionar a tarefa. 

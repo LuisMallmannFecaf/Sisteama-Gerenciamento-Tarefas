@@ -17,9 +17,8 @@ METODOLOGIA ADOTADA
 - **Mudanças**: Registradas neste README e no Kanban.
 
 INSTRUÇÃO DE USO DO SISTEMA
-- 1- Executar o programa 
-- 2 - Escrever a tarefa no local indicado 
-- 3 - Clicar em adicionar a tarefa. 
-- 4 - Ao iniciar  a tarefa mover para 'Em progresso', clicando no botão a baixo da lista 'A fazer'. 
-- 5 - Ao concluir a tarefa mover para 'Concluido',  clicando no botão a baixo da lista 'Em progresso'. 
-- 6 - Se não houver mais necessidade da visualização da tarefa remove-la apertando no botão 'Remover Tarefa' abaixo da lista de tarefas concluidas.
+- 1 - Escrever a tarefa no local indicado 
+- 2 - Clicar em adicionar a tarefa. 
+- 3 - Ao iniciar  a tarefa mover para 'Em progresso', clicando no botão a baixo da lista 'A fazer'. 
+- 4 - Ao concluir a tarefa mover para 'Concluido',  clicando no botão a baixo da lista 'Em progresso'. 
+- 5 - Se não houver mais necessidade da visualização da tarefa remove-la apertando no botão 'Remover Tarefa' abaixo da lista de tarefas concluidas.
